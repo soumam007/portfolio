@@ -1,0 +1,98 @@
+/*for full html file itself*/
+
+
+*{
+    
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+a:link, a:visited{
+    display: inline-block;
+    color: white;
+    font-weight: bold;
+    
+}
+
+
+
+ul{}
+
+li{
+    margin: 5px;
+    padding: 5px;
+    display: inline-block;
+}
+
+
+/*for full html ends*/
+
+
+
+
+
+
+/* HEADER AND NAVIGATION STYLE STARTS*/
+header{
+    background-color: #333333;
+    /*background-image: url('../img/footer.jpg');*/
+    color: white;
+    
+}
+
+
+.nav{
+    margin-left: 100px;
+    margin-right: 100px;
+    
+}
+
+
+/* HEADER AND NAVIGATION STYLE ENDS*/
+
+
+
+
+/*MIDDLE CONTENT THAT'S THE MAIN CONTENT*/
+
+
+.mainContent{
+    background-color: white;
+    color: black;
+    height: auto;
+}
+
+
+
+
+.badge1 ,.badge2, .badge3 ,.badge4 ,.badge5 ,.badge6{
+    width:350px;
+    height:400px;
+    float: left;
+    border: 1px solid gray;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+/*MIDDLE CONTENS THATS THE MAIN CONTENTS ENDS*/
+
+
+
+
+
+
+/*FOOTER STARTS*/
+footer{
+    
+    background-image: url('../img/footer.jpg');
+    text-align: center;
+    color: white;
+}
+
+/*FOOTER ENDS*/
